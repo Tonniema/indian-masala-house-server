@@ -1,50 +1,62 @@
 [
     {
-        "id": "1",
-        "chefName": "Vikas Khanna",
-        "chefPicture": "https://emirateswoman.com/wp-content/uploads/2015/05/EW-Vikas-Khanna-K.jpg",
-        "yearsOfExperience": 10,
-        "numRecipes": 50,
-        "likes": 1000
+        "Chef_ID": "2",
+        "Chef_Name": "Vikas Khanna",
+        "Chef_Picture": "https://emirateswoman.com/wp-content/uploads/2015/05/EW-Vikas-Khanna-K.jpg",
+        "Chef_Experience": "2 yr",
+        "Chef_Recipes": "3",
+        "Chef_Like": "2k",
+        "Chef_Bio": "Chefs know that cooking is not their job but the calling of life."
+        
     },
     {
-        "id": "2",
-        "chefName": "Sanjeev Kapoor",
-        "chefPicture": "https://www.forbesindia.com/media/images/2018/Jun/img_106499_chefsanjeevkapoor3.jpg",
-        "yearsOfExperience": 9,
-        "numRecipes": 76,
-        "likes": 500
+        "Chef_ID": "4",
+        "Chef_Name": "Sanjeev Kapoor",
+        "Chef_Picture": "https://www.forbesindia.com/media/images/2018/Jun/img_106499_chefsanjeevkapoor3.jpg",
+        "Chef_Experience": "4 yr",
+        "Chef_Recipes": "3",
+        "Chef_Like": "1.5k",
+        "Chef_Bio": "Cooking is about creating something delicious for someone else."
+        
     },
     {
-        "id": "3",
-        "chefName": "Pankaj Bhadouria",
-        "chefPicture": "https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2016/06/21/pankaj.jpg",
-        "yearsOfExperience": 4,
-        "numRecipes": 40,
-        "likes": 250
+        "Chef_ID": "6",
+        "Chef_Name": "Pankaj Bhadouria",
+        "Chef_Picture": "https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2016/06/21/pankaj.jpg",
+        "Chef_Experience": "3 yr",
+        "Chef_Recipes": "3",
+        "Chef_Like": "3k",
+        "Chef_Bio": "I am proud to be a chef. I bring happiness for your stomach."
+        
     },
     {
-        "id": "4",
-        "chefName": "Vineet Bhataia",
-        "chefPicture": "https://www.arabianbusiness.com/cloud/2021/09/16/rk7hzMOn-chef-Vineet-Bhatia_1.jpg",
-        "yearsOfExperience": 3,
-        "numRecipes": 30,
-        "likes": 250
+        "Chef_ID": "8",
+        "Chef_Name": "Vineet Bhataia",
+        "Chef_Picture": "https://www.arabianbusiness.com/cloud/2021/09/16/rk7hzMOn-chef-Vineet-Bhatia_1.jpg",
+        "Chef_Experience": "5 yr",
+        "Chef_Recipes": "3",
+        "Chef_Like": "8k",
+        "Chef_Bio": "I cook with wine; sometimes I even add it to the food."
+        
     },
     {
-        "id": "5",
-        "chefName": "Ajay Chopra",
-        "chefPicture": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b1135721248599.562fe01e77051.jpg",
-        "yearsOfExperience": 5,
-        "numRecipes": 65,
-        "likes": 250
+        "Chef_ID": "10",
+        "Chef_Name": "Ajay Chopra",
+        "Chef_Picture": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b1135721248599.562fe01e77051.jpg",
+        "Chef_Experience": "1 yr",
+        "Chef_Recipes": "3",
+        "Chef_Like": "7k",
+        "Chef_Bio": "In order to be a unique cook one must be different from others."
+        
     },
     {
-        "id": "6",
-        "chefName": "Kunal Kapur",
-        "chefPicture": "https://assets.cntraveller.in/photos/60b9fb85aa65b6af02d25237/4:3/w_1024,h_768,c_limit/KunalKapur2-312753876-1366x768.jpg",
-        "yearsOfExperience": 6,
-        "numRecipes": 43,
-        "likes": 250
+        "Chef_ID": "12",
+        "Chef_Name": "Kunal Kapur",
+        "Chef_Picture": "https://assets.cntraveller.in/photos/60b9fb85aa65b6af02d25237/4:3/w_1024,h_768,c_limit/KunalKapur2-312753876-1366x768.jpg",
+        "Chef_Experience": "4 yr",
+        "Chef_Recipes": "3",
+        "Chef_Like": "9k",
+        "Chef_Bio": "I am proud to be a chef. I bring happiness for your stomach."
+        
     }
 ]
