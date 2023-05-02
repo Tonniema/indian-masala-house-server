@@ -6,7 +6,8 @@
         "Chef_Experience": "2 yr",
         "Chef_Recipes": "3",
         "Chef_Like": "2k",
-        "Chef_Bio": "Chefs know that cooking is not their job but the calling of life."
+        "Chef_Bio": "Chefs know that cooking is not their job but the calling of life.",
+        "Chef_View": "See All Recipe"
         
     },
     {
@@ -16,7 +17,8 @@
         "Chef_Experience": "4 yr",
         "Chef_Recipes": "3",
         "Chef_Like": "1.5k",
-        "Chef_Bio": "Cooking is about creating something delicious for someone else."
+        "Chef_Bio": "Cooking is about creating something delicious for someone else.",
+        "Chef_View": "See All Recipe"
         
     },
     {
@@ -26,7 +28,8 @@
         "Chef_Experience": "3 yr",
         "Chef_Recipes": "3",
         "Chef_Like": "3k",
-        "Chef_Bio": "I am proud to be a chef. I bring happiness for your stomach."
+        "Chef_Bio": "I am proud to be a chef. I bring happiness for your stomach.",
+        "Chef_View": "See All Recipe"
         
     },
     {
@@ -36,7 +39,8 @@
         "Chef_Experience": "5 yr",
         "Chef_Recipes": "3",
         "Chef_Like": "8k",
-        "Chef_Bio": "I cook with wine; sometimes I even add it to the food."
+        "Chef_Bio": "I cook with wine; sometimes I even add it to the food.",
+        "Chef_View": "See All Recipe"
         
     },
     {
@@ -46,7 +50,8 @@
         "Chef_Experience": "1 yr",
         "Chef_Recipes": "3",
         "Chef_Like": "7k",
-        "Chef_Bio": "In order to be a unique cook one must be different from others."
+        "Chef_Bio": "In order to be a unique cook one must be different from others.",
+        "Chef_View": "See All Recipe"
         
     },
     {
@@ -56,7 +61,8 @@
         "Chef_Experience": "4 yr",
         "Chef_Recipes": "3",
         "Chef_Like": "9k",
-        "Chef_Bio": "I am proud to be a chef. I bring happiness for your stomach."
+        "Chef_Bio": "I am proud to be a chef. I bring happiness for your stomach.",
+        "Chef_View": "See All Recipe"
         
     }
 ]
