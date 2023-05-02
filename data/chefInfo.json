@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "chefName": "Vikas Khanna",
+        "chefPicture": "https://emirateswoman.com/wp-content/uploads/2015/05/EW-Vikas-Khanna-K.jpg",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000
+    },
+    {
+        "id": "2",
+        "chefName": "Sanjeev Kapoor",
+        "chefPicture": "https://www.forbesindia.com/media/images/2018/Jun/img_106499_chefsanjeevkapoor3.jpg",
+        "yearsOfExperience": 9,
+        "numRecipes": 76,
+        "likes": 500
+    },
+    {
+        "id": "3",
+        "chefName": "Pankaj Bhadouria",
+        "chefPicture": "https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2016/06/21/pankaj.jpg",
+        "yearsOfExperience": 4,
+        "numRecipes": 40,
+        "likes": 250
+    },
+    {
+        "id": "4",
+        "chefName": "Vineet Bhataia",
+        "chefPicture": "https://www.arabianbusiness.com/cloud/2021/09/16/rk7hzMOn-chef-Vineet-Bhatia_1.jpg",
+        "yearsOfExperience": 3,
+        "numRecipes": 30,
+        "likes": 250
+    },
+    {
+        "id": "5",
+        "chefName": "Ajay Chopra",
+        "chefPicture": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b1135721248599.562fe01e77051.jpg",
+        "yearsOfExperience": 5,
+        "numRecipes": 65,
+        "likes": 250
+    },
+    {
+        "id": "6",
+        "chefName": "Kunal Kapur",
+        "chefPicture": "https://assets.cntraveller.in/photos/60b9fb85aa65b6af02d25237/4:3/w_1024,h_768,c_limit/KunalKapur2-312753876-1366x768.jpg",
+        "yearsOfExperience": 6,
+        "numRecipes": 43,
+        "likes": 250
+    }
+]
